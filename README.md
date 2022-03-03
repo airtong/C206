@@ -31,8 +31,8 @@ Use a estrutura switch-case.
 Faça um programa que gere um número aleatório entre 1 e 10, e depois pergunte ao usuário qual número foi gerado. 
 O jogo deve continuar até que o usuário adivinhe o número.
 
-Dica: use    Randomrand= new Random();
-              intx = rand.nextInt(10) + 1; //Gera número entre 1 //e 10
+Dica: use    Random rand= new Random();
+              int x = rand.nextInt(10) + 1; //Gera número entre 1 //e 10
 
 **Exercício 6 –Adivinhação Aprimorado!**
 Repita o exercício anterior, mas informe o usuário se o número que ele digitou é maior ou menor que o gerado pelo computador!
